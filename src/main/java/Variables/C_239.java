@@ -7,6 +7,10 @@ public class C_239
 
         // 1- Herhang br 3 ö enn fyatları çn double data tpnde de kenler oluturunuz. Fyatların
         //     toplamını konsola yazdırınız
+        Double a = 12.3 ;
+        Double b = 5.5 ;
+        Double c = 2.1 ;
+        System.out.println(a+b+c); 
 
         // 2- Herhang br 3 ö e çn float, long ve nteger data tpnde de kenler oluturunuz. Bu
         //     de kenlern de erlernn çarpımını konsolda yazdırınız.
