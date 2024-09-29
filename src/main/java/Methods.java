@@ -21,6 +21,9 @@ public class Methods
         startsWith:     ne ile basladigini kontrol eder
         isBlank:        hem bos mu diye kontrol eder bos degilse sadece bosluk karakter var mi diye kontrol eder
         isEmpty:        bos mu diye kontrol eder
+        sort:           küçükten büyüğe veya alfabetik sıralama yapar.
+        binarySearch(): var olan elemanlar icin size o elemanin index’ini verir
+                        sort() ile kullanılır // olmayan elemanlar icin size negatif tamsayi verir
 
 
 
