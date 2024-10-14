@@ -22,13 +22,21 @@ public class Methods
         isBlank:        hem bos mu diye kontrol eder bos degilse sadece bosluk karakter var mi diye kontrol eder
         isEmpty:        bos mu diye kontrol eder
         sort:           küçükten büyüğe veya alfabetik sıralama yapar.
-        binarySearch(): var olan elemanlar icin size o elemanin index’ini verir
-                        sort() ile kullanılır // olmayan elemanlar icin size negatif tamsayi verir
 
 
+        Arrays.toString():     yazdırma
+        Arrays.sort      :     sıralama
+        binarySearch()   :     var olan elemanlar icin size o elemanin index’ini verir
+                               sort() ile kullanılır // olmayan elemanlar icin size negatif tamsayi verir
+        Arrays.equals(a,b);    iki array tamamen ayni mi
 
-
-
+        ages.add(9);      :     ArrayList e eleman ekleme
+        ages.add(1, 28);  :     araya eleman ekleme
+        ages.size()       :     eleman sayisi
+        ages.get(3)       :     istenilen index teki elemanı getirmek
+        ages.set(1, 25);  :     index i verilen elemanla değiştir
+        list.indexOf(w)   :     elemanın list teki ilk index i
+        remove()          :     siler
 
 
      */
